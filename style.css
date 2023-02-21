@@ -40,3 +40,15 @@ body{
       transform: translateY(0);
     }
   }
+
+
+
+  .terminal {
+    background-color: black;
+    color: #0F0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.4;
+    padding: 10px;
+    white-space: pre-wrap;
+  }
