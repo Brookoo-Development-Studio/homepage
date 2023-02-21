@@ -41,7 +41,10 @@ body{
     }
   }
 
-
+/*Terminal Section*/
+  .spacer{
+    height: 150px;
+  }
 
   .terminal {
     background-color: black;
@@ -51,4 +54,12 @@ body{
     line-height: 1.4;
     padding: 10px;
     white-space: pre-wrap;
+    text-align: left;
   }
+
+  .terminal-left{
+    text-align: left;
+    color: rgb(255, 255, 255);
+  }
+
+  
