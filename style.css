@@ -6,6 +6,7 @@ body{
 }
 
 /*Navbar*/
+
 .shake {
     transition: transform 0.2s ease;
   }
@@ -24,6 +25,7 @@ body{
 
 
 /*Hero*/
+
   .levitate {
     position: relative;
     animation: levitate 2s ease-in-out infinite;
