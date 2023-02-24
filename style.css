@@ -48,34 +48,5 @@ body{
     height: 150px;
   }
 
-  .terminal {
-    background-color: black;
-    color: #0F0;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
-    line-height: 1.4;
-    padding: 10px;
-    white-space: pre-wrap;
-    text-align: left;
-  }
-
-  .terminal-left{
-    text-align: left;
-    color: rgb(255, 255, 255);
-  }
-
+ 
   /*Footer*/
-  .footer {
-    min-height: 100%;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-}
-
-footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    background-color: #313030;
-    color: #fff;
-}
-  
